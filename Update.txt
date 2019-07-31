@@ -1,11 +1,6 @@
 http://redirector.gvt1.com/edgedl/release2/chrome/AI_fnn72YQeG39FSyCqNyJ4_76.0.3809.87/76.0.3809.87_chrome_installer.exe
-
 https://redirector.gvt1.com/edgedl/release2/chrome/AI_fnn72YQeG39FSyCqNyJ4_76.0.3809.87/76.0.3809.87_chrome_installer.exe
-
 http://dl.google.com/release2/chrome/AI_fnn72YQeG39FSyCqNyJ4_76.0.3809.87/76.0.3809.87_chrome_installer.exe
-
 https://dl.google.com/release2/chrome/AI_fnn72YQeG39FSyCqNyJ4_76.0.3809.87/76.0.3809.87_chrome_installer.exe
-
 http://www.google.com/dl/release2/chrome/AI_fnn72YQeG39FSyCqNyJ4_76.0.3809.87/76.0.3809.87_chrome_installer.exe
-
 https://www.google.com/dl/release2/chrome/AI_fnn72YQeG39FSyCqNyJ4_76.0.3809.87/76.0.3809.87_chrome_installer.exe
